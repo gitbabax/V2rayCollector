@@ -99,6 +99,7 @@ func main() {
 		"https://t.me/s/nufilter",
 		"https://t.me/s/Free_HTTPCustom",
 		"https://t.me/s/customv2ray",
+		"https://t.me/s/PewezaVPN",
 	}
 
 	configs := map[string]string{
